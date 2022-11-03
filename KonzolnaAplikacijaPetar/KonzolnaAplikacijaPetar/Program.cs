@@ -6,7 +6,7 @@ namespace KonzolnaAplikacijaPetar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Petra Pavica");
+            Console.WriteLine("Pozdrav iz aplikacije od Petra Pavica, broj indexa: 30091999");
         }
     }
 }
